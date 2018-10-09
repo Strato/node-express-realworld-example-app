@@ -1,0 +1,40 @@
+[0;36mMongoose:[0m users.ensureIndex({ username: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m articles.ensureIndex({ slug: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ email: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ username: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m articles.ensureIndex({ slug: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ email: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ username: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m articles.ensureIndex({ slug: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ email: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ username: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m articles.ensureIndex({ slug: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m articles.findAndModify({ _id: ObjectId("5bbc852f1524dcd51dfd5115") }) [] { [32m'$set'[39m: { updatedAt: new Date("Tue, 09 Oct 2018 10:38:48 GMT"), published: [33mtrue[39m }, [32m'$setOnInsert'[39m: { createdAt: new Date("Tue, 09 Oct 2018 10:38:48 GMT") } } { new: [33mfalse[39m, upsert: [33mfalse[39m }
+(node:7808) [DEP0079] DeprecationWarning: Custom inspection function on Objects via .inspect() is deprecated
+[0;36mMongoose:[0m users.ensureIndex({ email: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ username: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m articles.ensureIndex({ slug: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ email: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ username: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m articles.ensureIndex({ slug: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ email: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ username: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m articles.ensureIndex({ slug: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ email: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ username: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m articles.ensureIndex({ slug: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ email: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ username: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m articles.ensureIndex({ slug: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ email: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ username: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m articles.ensureIndex({ slug: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m articles.findAndModify({ _id: ObjectId("5bbc85541524dcd51dfd5116") }) [] { [32m'$set'[39m: { updatedAt: new Date("Tue, 09 Oct 2018 10:39:27 GMT"), published: [33mtrue[39m }, [32m'$setOnInsert'[39m: { createdAt: new Date("Tue, 09 Oct 2018 10:39:27 GMT") } } { new: [33mfalse[39m, upsert: [33mfalse[39m }
+(node:8040) [DEP0079] DeprecationWarning: Custom inspection function on Objects via .inspect() is deprecated
+[0;36mMongoose:[0m users.ensureIndex({ email: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ username: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m articles.ensureIndex({ slug: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ email: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ username: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m articles.ensureIndex({ slug: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  
+[0;36mMongoose:[0m users.ensureIndex({ email: [33m1[39m }) { unique: [33mtrue[39m, background: [33mtrue[39m }  

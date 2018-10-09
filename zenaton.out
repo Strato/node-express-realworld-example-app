@@ -1,0 +1,12 @@
+WORKFLOW POST EVENT { name: 'ApproveArticle', data: { approved: true } }
+NO EVENT OR APPROVED { name: 'ApproveArticle', data: { approved: true } }
+TASK
+TERMINE!
+WORKFLOW POST EVENT { name: 'ApproveArticle', data: { approved: true } }
+NO EVENT OR APPROVED { name: 'ApproveArticle', data: { approved: true } }
+WORKFLOW POST EVENT undefined
+NO EVENT OR APPROVED undefined
+TASK
+TERMINE!
+WORKFLOW POST EVENT undefined
+NO EVENT OR APPROVED undefined
